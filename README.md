@@ -1,5 +1,6 @@
 ## 💫 About Me:
-BOURKAB Aymen is a A passionate of Data Engineering, Data Science, Cloud Computing. He is also certified in IBM products. He has worked with Lydex as a Professor. <br>Specific areas of interest include Quantum Computing and AI.
+BOURKAB Aymen is a A passionate of Data Engineering, Data Science, Cloud Computing. He is also certified in IBM products. He has worked with Lydex as a Professor. He has studied computer programming at 1337, which is a renowned coding school, and part of the 42 Network. He is a mechanical engineer from EMI.
+<br>Specific areas of interest include Quantum Computing and AI.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/aymen-bourkab-b207b0153/) 

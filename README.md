@@ -2,12 +2,15 @@
 <h3 align="center">A passionate of Data Science, AI, Machine and deep learning</h3>
 
 - 🌱 I’m currently learning **Courses from Coursera about Data Science, AI, Machine and deep learning**
-
+- 🌱 I have studied computer programming **at 1337, a renowned coding school (part of the 42 Network)**
+- 🌱 I am currently instructing **a course on physical chemistry within the academic setting of the Mohammed VI Polytechnic University**
+- 🌱 I pursued my education in mechanical engineering **at the Mohammadia School of Engineering**
+  
 - 📫 How to reach me **bourkabaymen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aymen-bourkab-b207b0153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aymen-bourkab-b207b0153/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aymen-bourkab-b207b0153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aymen-bourkab-b207b0153/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
